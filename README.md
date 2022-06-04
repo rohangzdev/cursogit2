@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # MASTER
+=======
+violeta
+>>>>>>> violeta
