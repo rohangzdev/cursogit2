@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# MASTER
-=======
+MASTER
 violeta
->>>>>>> violeta
+verde
